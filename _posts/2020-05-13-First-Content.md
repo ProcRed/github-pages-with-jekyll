@@ -1,3 +1,8 @@
+---
+title: "SO-THIS-IS-A-THING"
+date: 2020-05-13
+---
+
 So this is a blog huh? Seems pretty easy to set up, even if it is a bit round-abouty.
 
 It's been a while since I've had to write anything in my own, non-scientific, voice. I almost don't know what to do or say :smirk:
